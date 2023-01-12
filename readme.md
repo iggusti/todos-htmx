@@ -32,4 +32,4 @@ This app was created as [express](https://expressjs.com)(Node.js) app in the bac
 
 ## Credit
 
-Created by [Rajasegar Chandran](https://twitter.com/rajasegar_c)
+Inspired by [Rajasegar Chandran](https://twitter.com/rajasegar_c)
